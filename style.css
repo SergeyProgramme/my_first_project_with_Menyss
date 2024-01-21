@@ -1,0 +1,44 @@
+.Main {
+    margin-bottom: 800px;
+    background: red;
+    height: 300px;
+    width: 400px;
+}
+.About {
+    margin-bottom: 800px;
+    background: red;
+    height: 300px;
+    width: 400px;
+}
+.Section {
+    margin-bottom: 800px;
+    background: red;
+    height: 300px;
+    width: 400px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.arrow-top{
+background: red;
+width: 50px;
+padding-bottom: 19px;
+border-radius: 50%;
+text-align: center;
+padding-top:10px;
+position: absolute;
+right: 90px;
+}
+.arrow-link{
+    color: white;
+}
+.arrow-bottom{
+background: orange;
+position: absolute;
+right: 90px;
+width: 50px;
+padding-bottom: 19px;
+border-radius: 50%;
+text-align: center;
+padding-top:10px
+}
